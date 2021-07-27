@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/gabrielcmoraru/csv-audit#readme",
   "dependencies": {
+    "@types/node": "^16.4.3",
     "concurrently": "^6.2.0",
     "nodemon": "^2.0.12"
   }
